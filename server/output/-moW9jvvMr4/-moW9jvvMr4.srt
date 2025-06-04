@@ -1,0 +1,516 @@
+1
+00:00:00,000 --> 00:00:16,760
+When I was first learning to meditate, the instruction was to simply pay attention to
+
+2
+00:00:16,760 --> 00:00:20,920
+my breath and with my mind wandered to bring it back.
+
+3
+00:00:20,920 --> 00:00:27,360
+Sounded simple enough, yet I'd sit on these silent retreats, sweating through t-shirts
+
+4
+00:00:27,360 --> 00:00:29,280
+in the middle of winter.
+
+5
+00:00:29,280 --> 00:00:32,760
+I take naps every chance I got because it was really hard work.
+
+6
+00:00:32,760 --> 00:00:35,480
+Actually, it was exhausting.
+
+7
+00:00:35,480 --> 00:00:40,440
+The instruction was simple enough, but I was missing something really important.
+
+8
+00:00:40,440 --> 00:00:43,240
+So why is it so hard to pay attention?
+
+9
+00:00:43,240 --> 00:00:47,800
+Well studies show that even when we're really trying to pay attention to something, like
+
+10
+00:00:47,800 --> 00:00:53,360
+maybe this talk, at some point about half of us will drift off into a daydream or have
+
+11
+00:00:53,360 --> 00:00:56,480
+this urge to check our Twitter feed.
+
+12
+00:00:56,480 --> 00:00:59,160
+So what's going on here?
+
+13
+00:00:59,160 --> 00:01:03,360
+It turns out that we're fighting one of the most evolutionarily conserved learning processes
+
+14
+00:01:03,360 --> 00:01:08,160
+currently known in science, one that's conserved back to the most basic nervous systems known
+
+15
+00:01:08,160 --> 00:01:09,960
+to man.
+
+16
+00:01:09,960 --> 00:01:14,000
+This reward-based learning process is called positive and negative reinforcement and basically
+
+17
+00:01:14,000 --> 00:01:16,320
+goes like this.
+
+18
+00:01:16,320 --> 00:01:20,720
+We see some food that looks good, our brain says, calories, survival.
+
+19
+00:01:20,720 --> 00:01:25,480
+We eat the food, we taste it, it tastes good, and especially with sugar, our bodies send
+
+20
+00:01:25,480 --> 00:01:31,440
+a signal to our brain that says, remember what you're eating and where you found it.
+
+21
+00:01:31,440 --> 00:01:36,720
+We lay down this context-dependent memory and learn to repeat the process next time.
+
+22
+00:01:36,720 --> 00:01:41,240
+See food, eat food, feel good, repeat.
+
+23
+00:01:41,240 --> 00:01:43,840
+Trigger, behavior, reward.
+
+24
+00:01:43,840 --> 00:01:46,080
+Simple right?
+
+25
+00:01:46,080 --> 00:01:50,520
+Well after a while our creative brain say, you know what, you can use this for more than
+
+26
+00:01:50,520 --> 00:01:56,080
+just remembering where food is, you know next time you feel bad, why don't you try eating
+
+27
+00:01:56,080 --> 00:01:59,840
+something good so you'll feel better?
+
+28
+00:01:59,840 --> 00:02:04,880
+We thank our brains for the great idea, try this, and quickly learn that if we eat chocolate
+
+29
+00:02:04,880 --> 00:02:08,920
+or ice cream when we're mad or sad we feel better.
+
+30
+00:02:08,920 --> 00:02:15,000
+Same process, just a different trigger, instead of this hunger signal coming from our stomach,
+
+31
+00:02:15,000 --> 00:02:19,320
+this emotional signal, feeling sad triggers others to eat.
+
+32
+00:02:19,320 --> 00:02:25,240
+Maybe in our teenage years we were a nerd at school and we see those rebel kids outside
+
+33
+00:02:25,240 --> 00:02:29,920
+smoking we think, hey I want to be cool so we start smoking.
+
+34
+00:02:29,920 --> 00:02:33,760
+The Marlboro man wasn't a dork and that was no accident.
+
+35
+00:02:33,760 --> 00:02:40,800
+See cool, smoke to be cool, feel good, repeat, trigger, behavior, reward.
+
+36
+00:02:40,800 --> 00:02:46,040
+And each time we do this we learn to repeat the process and it becomes a habit.
+
+37
+00:02:46,040 --> 00:02:51,640
+So later feeling stressed out triggers that urge to smoke a cigarette or to eat something
+
+38
+00:02:51,640 --> 00:02:53,400
+sweet.
+
+39
+00:02:53,400 --> 00:02:58,640
+Now with these same brain processes we've gone from learning to survive to literally
+
+40
+00:02:58,640 --> 00:03:03,800
+killing ourselves with these habits, obesity and smoking among the leading preventable
+
+41
+00:03:03,800 --> 00:03:07,600
+causes of morbidity and mortality in the world.
+
+42
+00:03:07,600 --> 00:03:13,560
+So back to my breath, what if instead of fighting our brains or trying to force ourselves
+
+43
+00:03:13,560 --> 00:03:18,840
+to pay attention we instead tapped into this natural reward-based learning process but
+
+44
+00:03:18,840 --> 00:03:20,720
+added a twist.
+
+45
+00:03:20,720 --> 00:03:24,800
+What if instead we just got really curious about what was happening in our momentary experience.
+
+46
+00:03:24,800 --> 00:03:26,800
+I'll give you an example.
+
+47
+00:03:26,800 --> 00:03:31,320
+In my lab we studied whether mindfulness training could help people quit smoking.
+
+48
+00:03:31,320 --> 00:03:35,920
+Now just like trying to force myself to pay attention on my breath they could try to
+
+49
+00:03:35,920 --> 00:03:41,200
+force themselves to quit smoking and the majority of them had tried this before and failed
+
+50
+00:03:41,200 --> 00:03:44,080
+on average six times.
+
+51
+00:03:44,080 --> 00:03:48,120
+Now with mindfulness training we dropped a bit about forcing and instead focused on being
+
+52
+00:03:48,120 --> 00:03:49,120
+curious.
+
+53
+00:03:49,120 --> 00:03:53,000
+In fact, we even told them to smoke.
+
+54
+00:03:53,000 --> 00:03:54,000
+What?
+
+55
+00:03:54,000 --> 00:03:58,640
+We said go ahead and smoke just be really curious about what is like when you do and what
+
+56
+00:03:58,640 --> 00:03:59,640
+did they notice.
+
+57
+00:03:59,640 --> 00:04:02,920
+Well here's an example from one of our smokers.
+
+58
+00:04:02,920 --> 00:04:09,800
+She said mindful smoking smells like stinky cheese and tastes like chemicals, yuck.
+
+59
+00:04:09,800 --> 00:04:15,840
+Now she knew cognitively that smoking was bad for her, that's why she joined our program.
+
+60
+00:04:15,840 --> 00:04:22,040
+What she discovered just by being curiously aware when she smoked was that smoking tastes
+
+61
+00:04:22,040 --> 00:04:26,440
+like shit.
+
+62
+00:04:26,440 --> 00:04:32,480
+Now she moved from knowledge to wisdom, she moved from knowing in her head that smoking
+
+63
+00:04:32,480 --> 00:04:38,440
+was bad for her to knowing it in her bones and the spell of smoking was broken.
+
+64
+00:04:38,440 --> 00:04:43,160
+She started to become disenchanted with her behavior.
+
+65
+00:04:43,160 --> 00:04:48,800
+Now the prefrontal cortex, that youngest part of our brain from an evolutionary perspective,
+
+66
+00:04:48,800 --> 00:04:54,360
+it understands on an intellectual level that we shouldn't smoke and it tries its hardest
+
+67
+00:04:54,360 --> 00:04:59,120
+to help us change our behavior, to help us stop smoking, to help us stop eating that
+
+68
+00:04:59,120 --> 00:05:03,120
+second, that third, that fourth cookie.
+
+69
+00:05:03,120 --> 00:05:08,120
+We call this cognitive control, we're using cognition to control our behavior.
+
+70
+00:05:08,120 --> 00:05:12,080
+Unfortunately this is also the first part of a brain that goes offline when we get stressed
+
+71
+00:05:12,080 --> 00:05:14,560
+out, which isn't that helpful.
+
+72
+00:05:14,560 --> 00:05:18,800
+Now we can all relate to this in our own experience, we're much more likely to do things like
+
+73
+00:05:18,800 --> 00:05:22,840
+yell at our spouser kids when we're stressed out or tired, even though we know it's not going
+
+74
+00:05:22,840 --> 00:05:27,280
+to be helpful, we just can't help ourselves.
+
+75
+00:05:27,280 --> 00:05:31,720
+Now when the prefrontal cortex goes offline, we fall back into our whole habits, which
+
+76
+00:05:31,720 --> 00:05:34,600
+is why this disenchantment is so important.
+
+77
+00:05:34,600 --> 00:05:38,680
+Seeing what we get from our habits helps us understand them in a deeper level, to know
+
+78
+00:05:38,680 --> 00:05:42,200
+it in our own bones, so we don't have to force ourselves to hold back or restrain ourselves
+
+79
+00:05:42,200 --> 00:05:46,640
+from behavior, we're just less interested in doing it in the first place.
+
+80
+00:05:46,640 --> 00:05:51,360
+And this is what mindfulness is all about, seeing really clearly what we get when we get
+
+81
+00:05:51,360 --> 00:05:58,400
+caught up in our behaviors, becoming disenchanted on a visceral level, and from this disenchanted
+
+82
+00:05:58,400 --> 00:06:01,120
+stance naturally letting go.
+
+83
+00:06:01,120 --> 00:06:05,560
+This isn't to say that, poof, magically we quit smoking, but over time, as we learn
+
+84
+00:06:05,560 --> 00:06:10,040
+to see more and more clearly the results of our actions, we let go of old habits and
+
+85
+00:06:10,040 --> 00:06:12,240
+form new ones.
+
+86
+00:06:12,240 --> 00:06:16,640
+The paradox here is that mindfulness is just about being really interested in getting
+
+87
+00:06:16,640 --> 00:06:22,080
+close and personal with what's actually happening in our bodies and minds from moment to moment.
+
+88
+00:06:22,080 --> 00:06:26,080
+This willingness to turn toward our experience rather than trying to make unpleasant cravings
+
+89
+00:06:26,080 --> 00:06:28,960
+go away as quickly as possible.
+
+90
+00:06:28,960 --> 00:06:34,120
+And this willingness to turn toward our experience is supported by curiosity, which is naturally
+
+91
+00:06:34,120 --> 00:06:35,120
+rewarding.
+
+92
+00:06:35,120 --> 00:06:36,840
+What does curiosity feel like?
+
+93
+00:06:36,840 --> 00:06:39,160
+It feels good.
+
+94
+00:06:39,160 --> 00:06:41,480
+And what happens when we get curious?
+
+95
+00:06:41,480 --> 00:06:44,840
+We start to notice that cravings are simply made up of body sensations.
+
+96
+00:06:44,840 --> 00:06:50,120
+Oh, there's tightness, there's tension, there's restlessness, and that these body sensations
+
+97
+00:06:50,120 --> 00:06:52,040
+come and go.
+
+98
+00:06:52,040 --> 00:06:57,200
+These are bite-sized pieces of experiences that we can manage for a moment to moment rather
+
+99
+00:06:57,200 --> 00:07:02,640
+than getting clobbered by this huge scary craving that we choke on.
+
+100
+00:07:02,640 --> 00:07:08,640
+In other words, when we get curious, we step out of our old fear-based reactive habit
+
+101
+00:07:08,640 --> 00:07:12,120
+patterns and we step into being.
+
+102
+00:07:12,120 --> 00:07:18,280
+We become this inner scientist where we're eagerly awaiting that next data point.
+
+103
+00:07:18,280 --> 00:07:24,400
+Now this might sound too simplistic to affect behavior, but in one study we found that mindfulness
+
+104
+00:07:24,400 --> 00:07:29,200
+training was twice as good as gold standard therapy at helping people quit smoking.
+
+105
+00:07:29,200 --> 00:07:31,960
+So it actually works.
+
+106
+00:07:31,960 --> 00:07:36,360
+And when we studied the brains of experienced meditators, we found that parts of a neural
+
+107
+00:07:36,360 --> 00:07:41,320
+network of self-referential processing called the default mode network were at play.
+
+108
+00:07:41,320 --> 00:07:45,520
+Now one current hypothesis is that a region of this network called the posterior cingulate
+
+109
+00:07:45,520 --> 00:07:50,680
+cortex is activated not necessarily by craving itself, but when we get caught up in it,
+
+110
+00:07:50,680 --> 00:07:53,720
+when we get sucked in and it takes us for a ride.
+
+111
+00:07:53,720 --> 00:07:58,640
+In contrast, when we let go, step out of the process just by being curiously aware of
+
+112
+00:07:58,640 --> 00:08:03,480
+what's happening, this same green region quiets down.
+
+113
+00:08:03,480 --> 00:08:10,760
+Now we're testing app and online-based mindfulness training programs that target these core mechanisms.
+
+114
+00:08:10,760 --> 00:08:16,040
+And ironically, use the same technology that's driving us to distraction to help us step
+
+115
+00:08:16,040 --> 00:08:21,040
+out of our unhealthy habit patterns of smoking, of stress-eating, and other addictive behaviors.
+
+116
+00:08:21,800 --> 00:08:24,240
+Now remember that bit about context-dependent memory?
+
+117
+00:08:24,240 --> 00:08:29,600
+We can deliver these tools to people's fingertips in the context that matter most.
+
+118
+00:08:29,600 --> 00:08:34,240
+So we can help them tap into their inherent capacity to be curiously aware right when
+
+119
+00:08:34,240 --> 00:08:38,760
+that urge to smoke or stress-eat or whatever arises.
+
+120
+00:08:38,760 --> 00:08:42,720
+So if you don't smoke or stress-eat, maybe the next time you feel this urge to check
+
+121
+00:08:42,720 --> 00:08:46,680
+your email when you're bored or you're trying to distract yourself from work, or maybe
+
+122
+00:08:46,680 --> 00:08:52,160
+to compulsively respond to that text message when you're driving, see if you can tap
+
+123
+00:08:52,160 --> 00:08:57,840
+into this natural capacity, just be curiously aware of what's happening in your body and
+
+124
+00:08:57,840 --> 00:08:59,360
+mind in that moment.
+
+125
+00:08:59,360 --> 00:09:04,480
+It will just be another chance to perpetuate one of our endless and exhaustive habit loops,
+
+126
+00:09:04,480 --> 00:09:06,480
+or step out of it.
+
+127
+00:09:06,480 --> 00:09:11,160
+Instead of see text message compulsively text back, feel a little bit better, notice the
+
+128
+00:09:11,160 --> 00:09:17,680
+urge, get curious, feel the joy of letting go, and repeat.
+
+129
+00:09:17,680 --> 00:09:18,680
+Thank you.
+
