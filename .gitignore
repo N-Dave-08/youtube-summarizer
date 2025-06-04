@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore all generated files and folders in server/output, but keep the output directory itself
+server/output/*
+!server/output/.gitkeep
